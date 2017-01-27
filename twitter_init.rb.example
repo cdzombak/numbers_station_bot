@@ -1,0 +1,11 @@
+# encoding: UTF-8
+# spaces:2
+
+def twitter_client()
+  Twitter::REST::Client.new do |config|
+    config.consumer_key = 'KEY'
+    config.consumer_secret = 'SECRET'
+    config.access_token = 'KEY'
+    config.access_token_secret = 'SECRET'
+  end
+end
