@@ -20,7 +20,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.1)
     multipart-post (2.0.0)
     naught (1.1.0)
-    oauth (0.5.4)
+    oauth (0.5.5)
     public_suffix (3.0.1)
     require_relative (1.0.3)
     simple_oauth (0.3.1)
